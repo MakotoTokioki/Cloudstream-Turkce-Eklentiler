@@ -59,7 +59,8 @@ Eğer bir sorununuz olursa lütfen issue açın. Hatta gelip merhaba demek için
 | <p align="center"><img src="https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/refs/heads/main/assets/asyawatch-logo.png" alt="AsyaWatch" width="40" /><br>AsyaWatch</p> | Popüler Asya içerikleri ve diziler | Aktif |
 | <p align="center"><img src="https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/blob/main/assets/asyaanimeleri-logo.png?raw=true" alt="AsyaAnimeleri" width="40" /><br>AsyaAnimeleri</p> | Donghuaların bulunduğu anime kaynağımız | Aktif |
 | <p align="center"><img src="https://turkey.mom-rsf.org/uploads/tx_lfrogmom/media/241-101_import.png" alt="AsyaAnimeleri" width="40" /><br>Kanal 7</p> | Hint, Pakistan ve Türk dizileri | Aktif |
-| <p align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLIcV2dIah9UvEIUZvpzRA4K6OgsW7waPBMw&s" alt="AsyaAnimeleri" width="40" /><br>Exxen</p> | Exxen dizileri ve programları | Aktif(Arama fonksiyonu şu an yok) |
+| <p align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLIcV2dIah9UvEIUZvpzRA4K6OgsW7waPBMw&s" alt="Exxen" width="40" /><br>Exxen</p> | Exxen dizileri ve programları | Aktif(Arama fonksiyonu şu an yok) |
+| <p align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/c3/b7/35c3b7b0-4a84-cceb-d3e2-349e19712b07/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg" alt="Puhu" width="40" /><br>Puhu</p> | Puhu dizileri ve programları | Aktif |
 
 ## Yol Haritası
 Planladığım ve yapmak istediğim şeyler:
