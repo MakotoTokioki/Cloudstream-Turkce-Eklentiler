@@ -360,5 +360,23 @@
         "description": "Puhu",
         "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/Puhu.cs3",
         "name": "Puhu"
+    },
+  {
+        "iconUrl": "https://asyafilmizlesene.org/wp-content/uploads/2022/09/rsm.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "Makoto Tokioki"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "AsyaFilmIzlesene",
+        "description": "Hint, Kore Filmleri",
+        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/AsyaFilmIzlesene.cs3",
+        "name": "AsyaFilmIzlesene"
     }
 ]
