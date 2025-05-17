@@ -19,6 +19,8 @@ Cloudstream kullanırken en büyük sorun içerik kaynaklarının sistemlerini d
 Eğer bir sorununuz olursa lütfen issue açın. Hatta gelip merhaba demek için bile issue açabilirsiniz. Repository'e yıldız atıp, sohbet odamıza katılmayı unutmayınız.
 
 ## Son Güncellemeler
+17 Mayıs - Puhu Tv eklentisi yayınlanmıştır.
+
 15 Mayıs - Exxen eklentisi yayınlanmıştır.
 
 12 Mayıs - Kanal 7 eklentisi oluşturulmuştur. Hint, Pakistan ve Türk dizilerine oradan ulaşabilirsiniz.
@@ -36,8 +38,6 @@ Eğer bir sorununuz olursa lütfen issue açın. Hatta gelip merhaba demek için
 26 Nisan - Tabii küçük hata düzeltmeleri. (Kapatıldı)
 
 26 Nisan - SSportPlus eklentisi yayınlandı.
-
-24 Nisan - YerelProgramlar eklentisi oluşturuldu.
 
 ## 📦 Kullanıma Hazır Eklentiler
 | Eklenti | İçerik | Durum |
