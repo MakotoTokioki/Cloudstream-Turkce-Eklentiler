@@ -19,6 +19,8 @@ Cloudstream kullanırken en büyük sorun içerik kaynaklarının sistemlerini d
 Eğer bir sorununuz olursa lütfen issue açın. Hatta gelip merhaba demek için bile issue açabilirsiniz. Repository'e yıldız atıp, sohbet odamıza katılmayı unutmayınız.
 
 ## Son Güncellemeler
+18 Mayıs - AsyaFilmİzlesene eklentisi yayınlanmıştır. Bu kaynak Hint ve Kore filmleri yayınlıyor.
+
 17 Mayıs - Puhu Tv eklentisi yayınlanmıştır.
 
 15 Mayıs - Exxen eklentisi yayınlanmıştır.
@@ -36,8 +38,6 @@ Eğer bir sorununuz olursa lütfen issue açın. Hatta gelip merhaba demek için
 27 Nisan - Tabii hesap sorunları nedeniyle kapatıldı. (Çok fazla cihaz üzerinden kullanıldığı için hesaplar banlanıyor. Durum bu olunca ne zamana kadar kapalı olur bilemem. Bundan sonra amacım biraz daha güvenli olan ve hesap gerektirmeyen kaynakların eklentilerini oluşturmak.)
 
 26 Nisan - Tabii küçük hata düzeltmeleri. (Kapatıldı)
-
-26 Nisan - SSportPlus eklentisi yayınlandı.
 
 ## 📦 Kullanıma Hazır Eklentiler
 | Eklenti | İçerik | Durum |
@@ -59,8 +59,9 @@ Eğer bir sorununuz olursa lütfen issue açın. Hatta gelip merhaba demek için
 | <p align="center"><img src="https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/refs/heads/main/assets/asyawatch-logo.png" alt="AsyaWatch" width="40" /><br>AsyaWatch</p> | Popüler Asya içerikleri ve diziler | Aktif |
 | <p align="center"><img src="https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/blob/main/assets/asyaanimeleri-logo.png?raw=true" alt="AsyaAnimeleri" width="40" /><br>AsyaAnimeleri</p> | Donghuaların bulunduğu anime kaynağımız | Aktif |
 | <p align="center"><img src="https://turkey.mom-rsf.org/uploads/tx_lfrogmom/media/241-101_import.png" alt="AsyaAnimeleri" width="40" /><br>Kanal 7</p> | Hint, Pakistan ve Türk dizileri | Aktif |
-| <p align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLIcV2dIah9UvEIUZvpzRA4K6OgsW7waPBMw&s" alt="Exxen" width="40" /><br>Exxen</p> | Exxen dizileri ve programları | Aktif(Arama fonksiyonu şu an yok) |
+| <p align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLIcV2dIah9UvEIUZvpzRA4K6OgsW7waPBMw&s" alt="Exxen" width="40" /><br>Exxen</p> | Exxen dizileri ve programları | Aktif |
 | <p align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/c3/b7/35c3b7b0-4a84-cceb-d3e2-349e19712b07/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg" alt="Puhu" width="40" /><br>Puhu</p> | Puhu dizileri ve programları | Aktif |
+| <p align="center"><img src="https://asyafilmizlesene.org/wp-content/uploads/2022/09/rsm.png" alt="AsyaFilmİzlesene" width="40" /><br>AsyaFilmİzlesene</p> | Hint ve Kore filmleri | Aktif |
 
 ## Yol Haritası
 Planladığım ve yapmak istediğim şeyler:
