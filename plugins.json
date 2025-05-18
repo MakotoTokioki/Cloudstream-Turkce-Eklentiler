@@ -373,7 +373,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 1,
+        "version": 2,
         "internalName": "AsyaFilmIzlesene",
         "description": "Hint, Kore Filmleri",
         "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/AsyaFilmIzlesene.cs3",
