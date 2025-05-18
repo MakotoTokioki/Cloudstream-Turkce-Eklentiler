@@ -19,6 +19,8 @@ Cloudstream kullanırken en büyük sorun içerik kaynaklarının sistemlerini d
 Eğer bir sorununuz olursa lütfen issue açın. Hatta gelip merhaba demek için bile issue açabilirsiniz. Repository'e yıldız atıp, sohbet odamıza katılmayı unutmayınız.
 
 ## Son Güncellemeler
+19 Mayıs - Animecix video yükleme mantığı güncellendi.
+
 19 Mayıs - Gain eklentisi yayınlandı.
 
 18 Mayıs - AsyaFilmİzlesene eklentisi yayınlanmıştır. Bu kaynak Hint ve Kore filmleri yayınlıyor.
@@ -36,8 +38,6 @@ Eğer bir sorununuz olursa lütfen issue açın. Hatta gelip merhaba demek için
 3 Mayıs - AsyaAnimeleri.top eklentilere eklendi. Artık dongualara daha rahat erişim sağlanabilecek.
 
 2 Mayıs - AsyaWatch.com eklentilere eklendi.
-
-27 Nisan - Tabii hesap sorunları nedeniyle kapatıldı. (Çok fazla cihaz üzerinden kullanıldığı için hesaplar banlanıyor. Durum bu olunca ne zamana kadar kapalı olur bilemem. Bundan sonra amacım biraz daha güvenli olan ve hesap gerektirmeyen kaynakların eklentilerini oluşturmak.)
 
 ## 📦 Kullanıma Hazır Eklentiler
 | Eklenti | İçerik | Durum |
