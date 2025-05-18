@@ -62,7 +62,7 @@ Eğer bir sorununuz olursa lütfen issue açın. Hatta gelip merhaba demek için
 | <p align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLIcV2dIah9UvEIUZvpzRA4K6OgsW7waPBMw&s" alt="Exxen" width="40" /><br>Exxen</p> | Exxen dizileri ve programları | Aktif |
 | <p align="center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/c3/b7/35c3b7b0-4a84-cceb-d3e2-349e19712b07/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg" alt="Puhu" width="40" /><br>Puhu</p> | Puhu dizileri ve programları | Aktif |
 | <p align="center"><img src="https://asyafilmizlesene.org/wp-content/uploads/2022/09/rsm.png" alt="AsyaFilmİzlesene" width="40" /><br>AsyaFilmİzlesene</p> | Hint ve Kore filmleri | Aktif |
-| <p align="center"><img src="https://blog.r10.net/storage/uploads/post/2022/03/gain-1648729106.jpg" alt="Gain" width="40" /><br>Gain</p> | Gain dizileri | Aktif(Arama yok) |
+| <p align="center"><img src="https://blog.r10.net/storage/uploads/post/2022/03/gain-1648729106.jpg" alt="Gain" width="40" /><br>Gain</p> | Gain dizileri | Aktif değil(Arama yok, sanırım ip limiti var) |
 
 ## Yol Haritası
 Planladığım ve yapmak istediğim şeyler:
