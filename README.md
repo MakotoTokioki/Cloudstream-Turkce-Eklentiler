@@ -19,6 +19,8 @@ Cloudstream kullanırken en büyük sorun içerik kaynaklarının sistemlerini d
 Eğer bir sorununuz olursa lütfen issue açın. Hatta gelip merhaba demek için bile issue açabilirsiniz. Repository'e yıldız atıp, sohbet odamıza katılmayı unutmayınız.
 
 ## Son Güncellemeler
+19 Mayıs - Yerel Diziler favorileme sorunu çözüldü.
+
 19 Mayıs - Animecix video yükleme mantığı güncellendi.
 
 19 Mayıs - Gain eklentisi yayınlandı.
@@ -36,8 +38,6 @@ Eğer bir sorununuz olursa lütfen issue açın. Hatta gelip merhaba demek için
 9 Mayıs - Tabii tekrardan aktive edildi. Artık hesap bilgilerinizi girerek kullanabilirsiniz. Temp mail ile kaydolabilirsiniz.
 
 3 Mayıs - AsyaAnimeleri.top eklentilere eklendi. Artık dongualara daha rahat erişim sağlanabilecek.
-
-2 Mayıs - AsyaWatch.com eklentilere eklendi.
 
 ## 📦 Kullanıma Hazır Eklentiler
 | Eklenti | İçerik | Durum |
